@@ -3,16 +3,6 @@ Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of PhonePe transaction data for the year 2024. The dashboard helps monitor transaction performance, service-wise revenue, payment success rates, and failure reasons across various financial services offered on the platform.
 
-The goal of this project is to enable stakeholders to:
-
-Track overall transaction volume and value.
-Monitor successful and failed transactions.
-Identify major revenue-generating services.
-Analyze transaction trends over time.
-Understand common payment failure reasons.
-Support data-driven business decisions.
-🎯 Business Problem
-
 
 This dashboard answers key questions such as:
 
@@ -24,7 +14,6 @@ How does transaction volume vary throughout the year?
 
 🛠️ Tools & Technologies Used
 Power BI Desktop
-Power Query
 Data Modeling
 Data Visualization
 
@@ -72,11 +61,6 @@ Recharge Bills generate the lowest transaction amount.
 
 A line chart showing transaction amount across months.
 
-Purpose:
-
-Identify peak transaction periods.
-Monitor seasonal transaction behavior.
-
 Key Observation:
 Transaction value peaks during August.
 Stable growth is observed towards the end of the year.
@@ -122,18 +106,18 @@ Insight:
 Gold Loan and Bike Loan services generate the highest transaction values.
 Utility payment services contribute smaller but consistent transaction volumes.
 
-🔍 Key Insights:
-
+🔍 Key Insights
 Revenue Insights
-
-Loans are the primary revenue contributor.
-Insurance services generate significant transaction volume.
-Recharge and utility services have lower transaction values but high user engagement.
+•	Loans are the primary revenue contributor. 
+•	Insurance services generate significant transaction volume. 
+•	Recharge and utility services have lower transaction values but high user engagement. 
 Transaction Insights
-Most transactions are successfully completed.
-Failed transactions represent a small percentage of overall activity.
+•	Most transactions are successfully completed. 
+•	Failed transactions represent a small percentage of overall activity. 
 Failure Analysis
-Server errors and incorrect PIN entries account for the majority of failures.
+•	Server errors and incorrect PIN entries account for the majority of failures. 
+•	Improving infrastructure reliability can reduce transaction failures. 
 Trend Analysis
-Significant transaction spikes are observed during specific months.
-Monthly transaction trends indicate steady platform usage throughout the yea
+•	Significant transaction spikes are observed during specific months. 
+•	Monthly transaction trends indicate steady platform usage throughout the year.
+m usage throughout the yea
